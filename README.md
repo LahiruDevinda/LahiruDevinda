@@ -8,11 +8,9 @@ I am a first-year Undergraduate student at the University of Kelaniya, currently
 
 ## 💻 Tech Stack & Interests
 
-* **Languages:** JavaScript (ES6+), Kotlin, Python
+* **Languages:** JavaScript (ES6+), Kotlin, Python, Java, C
 * **Web Development:** HTML5, CSS3 (Flexbox/Grid), React
 * **Mobile Development:** Android Development with Jetpack Compose
-* **Design & Media:** Adobe After Effects, Premiere Pro, Motion Graphics
-* **Security:** Foundational interest in Ethical Hacking and Network Security
 
 ---
 

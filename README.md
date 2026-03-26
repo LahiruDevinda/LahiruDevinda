@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineering Student | Aspiring Full-Stack Developer
 
-I am a first-year Undergraduate student at the University of Kelaniya, currently exploring the intersection of robust backend logic and intuitive frontend design. I enjoy building tools that solve real-world problems through clean code and efficient architecture.
+I am a second-year Undergraduate student at the University of Kelaniya, currently exploring the intersection of robust backend logic and intuitive frontend design. I enjoy building tools that solve real-world problems through clean code and efficient architecture.
 
 ---
 

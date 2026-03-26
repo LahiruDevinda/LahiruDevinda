@@ -16,15 +16,9 @@ I am a first-year Undergraduate student at the University of Kelaniya, currently
 
 ---
 
-## 📊 GitHub Activity
-![Lahiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email]
+
+* **Email:** hlahirudevinda@gmailcom
 
 ---
 > "The best way to predict the future is to code it."
